@@ -50,7 +50,8 @@
           class="bg-source-200 dark:bg-source-800 text-source-800 dark:text-source-200 p-1 rounded-sm"
         >
           url
-        </code>. Supported image formats include JPEG, PNG, GIF, SVG, WebP, TIFF, AVIF, and BMP. Maximum allowed file size is {MAX_CONTENT_LENGTH_MB} MB.
+        </code>. Supported image formats include JPEG, PNG, GIF, SVG, WebP, TIFF, AVIF, and BMP.
+        Maximum allowed file size is {MAX_CONTENT_LENGTH_MB} MB.
       </p>
     </div>
   </div>
