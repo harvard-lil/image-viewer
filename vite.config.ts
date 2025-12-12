@@ -19,7 +19,7 @@ export default defineConfig({
           },
           include: ["src/**/*.svelte.{test,spec}.{js,ts}"],
           exclude: ["src/lib/server/**"],
-          setupFiles: ["./vitest.setup.ts"],
+          setupFiles: ["./src/vitest.setup.ts"],
         },
       },
       {
